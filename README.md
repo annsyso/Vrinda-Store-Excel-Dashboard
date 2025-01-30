@@ -1,5 +1,8 @@
 # Vrinda Store Excel Dashboard
 
+<img width="1231" alt="image" src="https://github.com/user-attachments/assets/9b5166a6-9383-450c-9ccc-b1e24a2ba898" />
+
+
 ## Objective
 Vrinda Store wants to create an annual sales report to understand their customers and grow their sales for the next year. The goal is to analyze data from 2022 to make predictions and inform business decisions for 2023.
 
